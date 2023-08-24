@@ -1,5 +1,0 @@
-{{#subiya-sultana}}
-Name: subiya
-Skills: HTML, CSS, JS, bootstrap, react, php, mysql.
-Email: itsmesubiya@gmail.com
-{{/subiya-sultana}}
